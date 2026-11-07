@@ -1,6 +1,6 @@
 # My First Project
 
-Hi! I'm [IMANII JERUTO], and I'm learning to code.
+Hi! I'm IMANII JERUTO, and I'm learning to code.
 
 ## What I'm learning
 - HTML & CSS
@@ -11,4 +11,5 @@ Hi! I'm [IMANII JERUTO], and I'm learning to code.
 - Contribute to open source
 
 ## Contact
-- Email: imanijeruto96@email.com
+- Email: imanijeruto96@gmail.com
+-phone:0113444820
