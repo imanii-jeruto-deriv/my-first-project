@@ -1,6 +1,6 @@
 # My First Project
 
-Hi! I'm IMANII JERUTO, and I'm learning to code.
+Hi there 👋! I'm IMANII JERUTO, and I'm learning how to code.
 
 ## What I'm learning
 - HTML & CSS
@@ -9,6 +9,7 @@ Hi! I'm IMANII JERUTO, and I'm learning to code.
 ## Goals
 - Build my first website
 - Contribute to open source
+- build my first five projects and get an intership
 
 ## Contact
 - Email: imanijeruto96@gmail.com
